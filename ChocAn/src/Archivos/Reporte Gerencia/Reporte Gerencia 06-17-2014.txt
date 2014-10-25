@@ -1,0 +1,25 @@
+							..:::REPORTE GERENCIA:::..
+
+	Nombre: Adriana  anival
+	Numero: 160000008
+	Numero Total Consultas: 1
+	Total a Pagar en la Semana: 523.45
+
+	Nombre: Andres carnal
+	Numero: 160000002
+	Numero Total Consultas: 2
+	Total a Pagar en la Semana: 1010.87
+
+	Nombre: Ivan lopez
+	Numero: 160000006
+	Numero Total Consultas: 2
+	Total a Pagar en la Semana: 1046.9
+
+	Nombre: Sebastian pepino
+	Numero: 160000005
+	Numero Total Consultas: 2
+	Total a Pagar en la Semana: 974.84
+
+NUMERO TOTAL DE PROVEEDORES A PAGAR: 4
+NUMERO TOTAL DE CONSULTAS: 7
+TOTAL A PAGAR: 3556.06

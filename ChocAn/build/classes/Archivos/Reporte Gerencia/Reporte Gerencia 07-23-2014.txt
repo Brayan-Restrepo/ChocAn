@@ -1,0 +1,76 @@
+							..:::REPORTE GERENCIA:::..
+
+	Nombre: Adriana  anival
+	Numero: 160000008
+	Numero Total Consultas: 1
+	Total a Pagar en la Semana: 523.45
+
+	Nombre: Adriana  anival
+	Numero: 160000008
+	Numero Total Consultas: 2
+	Total a Pagar en la Semana: 1046.9
+
+	Nombre: Adriana  anival
+	Numero: 160000008
+	Numero Total Consultas: 2
+	Total a Pagar en la Semana: 1046.9
+
+	Nombre: Andres carnal
+	Numero: 160000002
+	Numero Total Consultas: 2
+	Total a Pagar en la Semana: 1010.87
+
+	Nombre: Andres carnal
+	Numero: 160000002
+	Numero Total Consultas: 2
+	Total a Pagar en la Semana: 1010.87
+
+	Nombre: Andres carnal
+	Numero: 160000002
+	Numero Total Consultas: 2
+	Total a Pagar en la Semana: 1010.87
+
+	Nombre: Hernan castro
+	Numero: 160000014
+	Numero Total Consultas: 1
+	Total a Pagar en la Semana: 543.71
+
+	Nombre: Hernan castro
+	Numero: 160000014
+	Numero Total Consultas: 1
+	Total a Pagar en la Semana: 543.71
+
+	Nombre: Ivan lopez
+	Numero: 160000006
+	Numero Total Consultas: 2
+	Total a Pagar en la Semana: 1046.9
+
+	Nombre: Ivan lopez
+	Numero: 160000006
+	Numero Total Consultas: 2
+	Total a Pagar en la Semana: 1046.9
+
+	Nombre: Ivan lopez
+	Numero: 160000006
+	Numero Total Consultas: 2
+	Total a Pagar en la Semana: 1046.9
+
+	Nombre: Sebastian pepino
+	Numero: 160000005
+	Numero Total Consultas: 2
+	Total a Pagar en la Semana: 974.84
+
+	Nombre: Sebastian pepino
+	Numero: 160000005
+	Numero Total Consultas: 2
+	Total a Pagar en la Semana: 974.84
+
+
+	Nombre: Sebastian pepino
+	Numero: 160000005
+	Numero Total Consultas: 2
+	Total a Pagar en la Semana: 974.84
+
+NUMERO TOTAL DE PROVEEDORES A PAGAR: 15
+NUMERO TOTAL DE CONSULTAS: 25
+TOTAL A PAGAR: 12802.5
