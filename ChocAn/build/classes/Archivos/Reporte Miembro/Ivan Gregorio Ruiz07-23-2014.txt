@@ -1,9 +1,0 @@
-Nombre: Ivan Gregorio Ruiz
-Numero: 170000006
-Direccion: santafe
-ciudad: Ivan Gregorio Ruiz
-Codigo Zip: 55248
-
-Fecha: 23-13-1343
-Proveedor Sebastian pepino
-Servicio Sesion de aerobicos
