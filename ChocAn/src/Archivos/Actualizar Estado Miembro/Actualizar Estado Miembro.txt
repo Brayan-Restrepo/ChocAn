@@ -1,0 +1,8 @@
+170000001,Activado
+170000006,Activado
+170000010,Activado
+170000015,Activado
+170000019,Activado
+170000022,Activado
+170000028,Activado
+170000032,Activado

@@ -1,0 +1,3 @@
+598470,Sesion con nutricionista,543.71
+883948,Sesion de aerobicos,487.42
+528109,Sesion con internista,523.45
