@@ -1,0 +1,22 @@
+Nombre: Ivan lopez
+Numero: 160000006
+Direccion: Calle89
+ciudad: Guajira
+Codigo Zip: 5874
+
+	Fecha prestacion Servicio: 23-23-2342
+	Fecha del Sistema: 26-06-2014
+	Nombre Miembro: Adriana Lucia Castro
+	Numero Miembro: 170000008
+	Servicio: 528109
+	Valor a pagar: 523.45
+
+	Fecha prestacion Servicio: 12-12-1234
+	Fecha del Sistema: 26-06-2014
+	Nombre Miembro: Paolan Parin
+	Numero Miembro: 170000009
+	Servicio: 528109
+	Valor a pagar: 523.45
+
+Numero Total Consultas: 2
+Total a Pagar en la Semana: 1046.9

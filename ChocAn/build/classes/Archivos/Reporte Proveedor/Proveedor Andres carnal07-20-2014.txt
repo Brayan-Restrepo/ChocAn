@@ -1,0 +1,22 @@
+Nombre: Andres carnal
+Numero: 160000002
+Direccion: coralina
+ciudad: Villavicencio
+Codigo Zip: 54569
+
+	Fecha prestacion Servicio: 12-12-1212
+	Fecha del Sistema: 06-06-2014
+	Nombre Miembro: Paolan Parin
+	Numero Miembro: 170000009
+	Servicio: 883948
+	Valor a pagar: 487.42
+
+	Fecha prestacion Servicio: 12-12-2014
+	Fecha del Sistema: 26-06-2014
+	Nombre Miembro: Sebast
+	Numero Miembro: 170000005
+	Servicio: 528109
+	Valor a pagar: 523.45
+
+Numero Total Consultas: 2
+Total a Pagar en la Semana: 1010.87
